@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
   "plugin_url": "https://raw.githubusercontent.com/g-updater/plugin/main/module.bin",
-  "sha256_dex": "439d6c203ee443d91818b138b2e3a8cbc84680ecddccf5067a4b4f6892ca6185",
-  "key_b64": "72LTQhWaZdH02zFaF87Q77y7542ZZ19oFTgLCt7CWe0=",
-  "iv_b64": "3oiqhMdbi4t7HA3U",
+  "sha256_dex": "18564f6af49fa2afb9c6ea3cc4d618d1d2ccaa891d6e332e2c58c367a4ece65c",
+  "key_b64": "UElJZKZFeh7T4iGO64QTdD310Kr6jTcyVVaHkMsrAqI=",
+  "iv_b64": "nf2G3L+hR7/rIA7f",
   "signature_b64": ""
 }
